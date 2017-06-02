@@ -9,9 +9,9 @@ theme               = "cocoa"
 author              = "Dimitrije Radojević"
 title               = "Dimitrije Radojević"
 pygmentsuseclasses  = true
-#disqusshortname     = "cocoaexamplesite" # Comment out to disable Disqus.
+disqusshortname     = "dimitrijer"
 pluralizelisttitles = false
-#googleAnalytics     = "UA-123-45"
+googleAnalytics     = "UA-100337521-1"
 
 [permalinks]
 fixed = ":title/"
@@ -40,8 +40,8 @@ latestpostscount       = 5                             # how many posts to displ
 i18n_flags             = false                         # whether to display small country flags for available translations
 author                 = "Dimitrije Radojević"
 cachebuster            = true                          # add the current unix timestamp in query string for cache busting css assets
-dateform               = "Jan 2, 2006"
-dateformfull           = "Mon Jan 2 2006 15:04:05 MST"
+dateform               = "2nd Jan 2006"
+dateformfull           = "Mon 2nd Jan 2006 15:04:05 GMT"
 description            = "My views and thoughts"
 email                  = "dimitrije.rd@gmail.com"
 extracssfiles          = [ "/css/override.css" ]       # In your `static` directory, add/remove files as necessary.
